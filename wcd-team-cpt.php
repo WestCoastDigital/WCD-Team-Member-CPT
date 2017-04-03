@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WCD Team Member CPT
-Plugin URI: https://beaverlodgehq.com/downloads/wcd-team-cpt
+Plugin URI: https://github.com/WestCoastDigital/WCD-Team-Member-CPT
 Description: Adds a simple interface to create Team Members on your website
 Version: 1.0
 Author: West Coast Digital
